@@ -1,10 +1,10 @@
-# Claude Plugins Local
+# Claude Frontend Evaluation
 
-Personal Claude Code plugin marketplace. Install with:
+A Claude Code plugin marketplace for frontend design evaluation. Install with:
 
 ```bash
-claude plugin marketplace add https://github.com/ctaloi/claude-plugins-local
-claude plugin install frontend-evaluation@claude-plugins-local
+claude plugin marketplace add https://github.com/ctaloi/claude-frontend-evaluation
+claude plugin install frontend-evaluation@claude-frontend-evaluation
 ```
 
 ---
