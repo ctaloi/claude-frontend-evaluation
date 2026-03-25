@@ -1,0 +1,9 @@
+{
+  "name": "frontend-evaluation",
+  "version": "1.0.0",
+  "description": "Evaluator and iteration loop for frontend design quality. Scores output on four axes (design quality, originality, craft, functionality) and automates the generate-evaluate-fix loop.",
+  "author": {
+    "name": "Chris",
+    "email": ""
+  }
+}
