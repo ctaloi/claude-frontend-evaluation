@@ -1,0 +1,15 @@
+{
+  "name": "local",
+  "description": "User-owned plugins that won't be overwritten by upstream updates",
+  "owner": {
+    "name": "Chris",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "frontend-evaluation",
+      "description": "Evaluator and iteration loop for frontend design quality. Scores output on four axes and automates the generate-evaluate-fix loop.",
+      "source": "./plugins/frontend-evaluation"
+    }
+  ]
+}
